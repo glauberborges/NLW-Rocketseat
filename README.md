@@ -2,7 +2,7 @@
 > Projeto desenvolvido na semana NLW da Rocketseat, projeto consiste em uma aplicação web feita em React.js um APP mobile feito com expo.js e  React Native e back-end em Node.js
 
 
-![](../ecoleta.png)
+![](ecoleta.png)
 
 ## Instalação
 
