@@ -1,0 +1,9 @@
+node_modules
+.idea
+uploads
+!uploads/*.svg
+*.sqlite
+
+
+# macOS
+.DS_Store

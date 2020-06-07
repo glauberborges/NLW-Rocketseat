@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Ocultar arquivos" pattern="!file:*/._*&amp;&amp;!file:._*&amp;&amp;!file:.idea//*" />
+</component>
